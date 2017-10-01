@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "707123535927",
+    "firebase_url": "https://floridadmvpracticetest.firebaseio.com",
+    "project_id": "floridadmvpracticetest",
+    "storage_bucket": "floridadmvpracticetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707123535927:android:d8b80c788a33f508",
+        "android_client_info": {
+          "package_name": "ee.igor.floridadmvpracticetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707123535927-r7hk7qf829evb80cgk7mumed1onp9ga9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ee.igor.floridadmvpracticetest",
+            "certificate_hash": "af2f461ac066b86627bc1470409b94895513a64c"
+          }
+        },
+        {
+          "client_id": "707123535927-eqs39ddsmqd3gi9i5ib2onvf27rp9iah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiMmSrgLpv-ertlOAJu3TATzIYFS7uqyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707123535927-eqs39ddsmqd3gi9i5ib2onvf27rp9iah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
